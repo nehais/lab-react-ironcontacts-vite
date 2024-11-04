@@ -40,3 +40,21 @@
 .read-the-docs {
   color: #888;
 }
+
+.buttons{
+  display: flex;
+}
+
+.button{
+  background-color: #dfd9d9;
+  border: solid 0.5px black;
+  margin: 10px;
+}
+
+.pic-area{
+  width: 70px;
+}
+
+.pic{
+  width: 100%;
+}
